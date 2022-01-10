@@ -5,7 +5,7 @@ const DRAG_NOTICE = document.getElementById('js-drag-notice');
 
 var theModel;
 
-const MODEL_PATH = "http://localhost/test.glb";
+const MODEL_PATH = "https://curtishennessy.github.io/test.glb";
 
 var activeOption = 'engine';
 var loaded = false;
